@@ -1,32 +1,15 @@
 {
-  "name": "node-seed",
-  "version": "0.0.14",
-  "description": "A skeleton for a typical NodeJS application",
-  "keywords": [
-    "node project",
-    "nodejs project",
-    "node seed",
-    "eslint",
-    "mocha",
-    "istanbul",
-    "code coverage",
-    "gulp",
-    "pre-commit",
-    "es6",
-    "babel"
-  ],
+  "name": "glossario-swe",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
   "main": "",
-  "scripts": {
-    "pre-commit": "./node_modules/.bin/gulp pre-commit"
-  },
-  "pre-commit": [
-    "pre-commit"
-  ],
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/hwndept/node-seed.git"
+    "url": "https://github.com/Hiru93/GlossarioSWE.git"
   },
-  "author": "Nikolay Shatalov <hwndept@gmail.com>",
+  "author": "Tia",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hwndept/node-seed/issues"
